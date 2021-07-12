@@ -22,7 +22,7 @@
   <details>
 <summary>:zap: Github Stats</summary>
 
-  <amg align="left" alt="LockDTB Github Stats" src="https://lock-dtb-q1zhqqxn4-lockdtb.vercel.app/" />
+  <amg align="left" alt="LockDTB Github Stats" src="https://lock-dtb-q1zhqqxn4-lockdtb.vercel.app/api?username=lockdtb&show_icons=true&hide_border=true" />
 
   </details>
 
