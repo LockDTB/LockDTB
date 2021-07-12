@@ -1,6 +1,8 @@
 ### Hey 👋, I'm Lock!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lockDTB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lockDTB)
+
+###
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://www.twitch.tv/LockDTB)
 
 ### Connect with me:
