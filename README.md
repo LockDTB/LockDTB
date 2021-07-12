@@ -13,7 +13,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
 
 
-<img align="right" height="215" width="325" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="topright" height="215" width="325" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 ### Languages and Tools:
@@ -24,7 +24,7 @@
 
 ##
 
-  <img align="center" alt="LockDTB's Github Stats" src="https://github-readme-stats-git-master-lockdtb.vercel.app//api?username=LockDTB&show_icons=true&hide_border=true" />
+<img align="center" alt="LockDTB's Github Stats" src="https://github-readme-stats-git-master-lockdtb.vercel.app//api?username=LockDTB&show_icons=true&hide_border=true" />
 
 ##
 
