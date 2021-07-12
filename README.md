@@ -33,7 +33,7 @@
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- ![Brave Browser](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
+- [Brave Browser](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
 - Code Editor: VSCode
 
 ---
