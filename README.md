@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://github.com/LockDTB">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LockDTB&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://lock-dtb-lockdtb.vercel.app/"/>
 </a>
 </p>
 
