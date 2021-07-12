@@ -12,9 +12,6 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
 
-### heyyyyyyy 🖤! &nbsp; ![](https://komarev.com/ghpvc/?username=LockDTB&label=Views&color=blue&style=plastic)
-
-
 
 <img align="right" height="215" width="325" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
