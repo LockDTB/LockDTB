@@ -19,10 +19,11 @@
 
 ### ⚙️ &nbsp;GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://lock-dtb-lockdtb.vercel.app/"/>
-</a>
-</p>
+<summary>:zap: Github Stats</summary>
+
+  <amg align="left" alt="Lock's Github Stats" src="https://lock-dtb-lockdtb.vercel.app/"/>
+
+  </details>
 
 ---
 
