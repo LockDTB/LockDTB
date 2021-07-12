@@ -20,7 +20,6 @@
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/LockDTB">
   <img height="180em" src="https://lock-dtb-lockdtb.vercel.app/"/>
 </a>
 </p>
