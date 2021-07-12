@@ -6,8 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=LockDTB&label=Views&color=blue&style=plastic)
 
-I'm a School Dropout What else do you want to know?
-I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for under 1 Month and still learning. 🤓
+
 
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
