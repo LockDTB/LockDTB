@@ -1,9 +1,9 @@
-## Hey 👋, I'm [Lock!](https://github.com/LockDTB) <img align="right" height="70" width="70" alt="" src="https://cdn.discordapp.com/attachments/819865029670862860/864051629510492160/Tyler_emoji.png" />
+<img align="right" height="70" width="70" alt="" src="https://cdn.discordapp.com/attachments/819865029670862860/864051629510492160/Tyler_emoji.png" />
 
 <div align="center">
 <img src="./octo2.gif" alt="GitHub Logo" width="150" height="150" />
 
-<h3 align="center">< <img src="./hi.gif" width="20"> Hello there />, I'm Lock </h3>
+<h3 align="center">< <img src="./hi.gif" width="20"> Hello there />, I'm Lock</h3>
 </div>
 
 ### Connect with me:
