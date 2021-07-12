@@ -24,8 +24,6 @@
 
 ##
 
-<summary>:zap: Github Stats</summary>
-
   <img align="left" alt="LockDTB's Github Stats" src="https://github-readme-stats-git-master-lockdtb.vercel.app//api?username=LockDTB&show_icons=true&hide_border=true" />
 
 ##
