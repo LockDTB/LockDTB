@@ -1,9 +1,16 @@
 ### Hey 👋, I'm Lock!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lockDTB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lockDTB)
-
 ###
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://www.twitch.tv/LockDTB)
+###
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UC1ce0f6-IxvaiwwsmaBE0Bw?style=social)](https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw)
+###
+[![Twitter Follow](https://img.shields.io/twitter/follow/lockDTB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lockDTB)
+###
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LockDTB Spotify Playing" width="350" />](https://open.spotify.com/user/21zaodvhoz7ke2nocopw4ghna)
 
 ### Connect with me:
 
