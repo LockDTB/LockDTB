@@ -3,6 +3,7 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/GPfCw4T8Z7)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/LockDTB)
 
 ### heyyyyyyy 🖤! &nbsp; ![](https://komarev.com/ghpvc/?username=LockDTB&label=Views&color=blue&style=plastic)
 
