@@ -1,5 +1,7 @@
 ## Hey 👋, I'm [Lock!](https://github.com/LockDTB) <img align="right" height="70" width="70" alt="" src="https://cdn.discordapp.com/attachments/819865029670862860/864051629510492160/Tyler_emoji.png" />
 
+### Connect with me:
+
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/GPfCw4T8Z7)
@@ -38,9 +40,9 @@
 - Browser: Brave Browser
 - Code Editor: VSCode
 
-## Spotify Playing 🎧
+### Spotify Playing 🎧
 
-<img src="https://novatorem-two-dun.vercel.app/api/spotify-playing"alt="Spotify Now Playing" width"350" />](https://open.spotify.com/user/21zaodvhoz7ke2nocopw4ghna)
+[<img src="https://novatorem-two-dun.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width"350" />](https://open.spotify.com/user/21zaodvhoz7ke2nocopw4ghna)
 
 ##
 
