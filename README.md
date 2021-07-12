@@ -19,6 +19,7 @@
 
 ### ⚙️ &nbsp;GitHub Stats
 
+  </details>
 <summary>:zap: Github Stats</summary>
 
   <amg align="left" alt="Lock's Github Stats" src="https://lock-dtb-lockdtb.vercel.app/"/>
