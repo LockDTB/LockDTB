@@ -40,4 +40,4 @@
 - Browser: Brave Browser
 - Code Editor: VSCode
 
-``good bye now have a good life :)``
+``good bye now <3 :(``
