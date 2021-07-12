@@ -1,5 +1,7 @@
 ## Hey 👋, I'm [Lock!](https://github.com/LockDTB) <img align="right" height="70" width="70" alt="" src="https://cdn.discordapp.com/attachments/819865029670862860/864051629510492160/Tyler_emoji.png" />
 
+[<img src="hello-world.gif" />](https://github.com/LockDTB)
+
 ### Connect with me:
 
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
