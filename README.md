@@ -38,6 +38,6 @@ I'm a passionate learner who's always willing to learn, I've been Developing in 
 
 ---
 
-<h3 align=center>Show some ❤️ </h3>
+<h3 align=center>k bye :( </h3>
 
 ---
