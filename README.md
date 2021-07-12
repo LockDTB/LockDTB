@@ -6,8 +6,6 @@
 <h3 align="center">< <img src="./hi.gif" width="20"> Hello there />, I'm Lock </h3>
 </div>
 
-[<img src="hello-world.gif" />](https://github.com/LockDTB)
-
 ### Connect with me:
 
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
