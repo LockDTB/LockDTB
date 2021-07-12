@@ -34,7 +34,6 @@
 - Browser: Brave Browser
 - Code Editor: VSCode
 
-##
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -46,4 +45,3 @@
 </p>
 <hr>
 
-##
