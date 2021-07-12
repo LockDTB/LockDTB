@@ -17,7 +17,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
 
 
-<img align="right" height="230" width="320" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" height="250" width="360" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 ### Languages and Tools:
