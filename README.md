@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [Lock!](https://github.com/LockDTB) <img align="right" height="70" width="70" alt="" src="https://cdn.discordapp.com/attachments/819865029670862860/864051629510492160/Tyler_emoji.png" />
 
-``fuck you bro idk``
-
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
 
 [![Discord](https://img.shields.io/discord/729297852852862977?logo=discord)](https://discord.gg/GPfCw4T8Z7)
@@ -42,8 +40,4 @@
 - Browser: Brave Browser
 - Code Editor: VSCode
 
----
-
-<h3 align=center>k bye :( </h3>
-
----
+``good bye now have a good life :)``
