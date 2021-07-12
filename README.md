@@ -3,8 +3,7 @@
 ###
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://www.twitch.tv/LockDTB)
 ###
-[![Youtube](https://img.shields.io/twitch/status/LockDTB?style=social)](https://www.twitch.tv/LockDTB)
-https://img.shields.io/youtube/channel/subscribers/UC1ce0f6-IxvaiwwsmaBE0Bw?style=social
+[![Youtube](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/youtube/channel/subscribers/UC1ce0f6-IxvaiwwsmaBE0Bw?style=social)
 ###
 [![Twitter Follow](https://img.shields.io/twitter/follow/lockDTB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lockDTB)
 ###
