@@ -8,7 +8,6 @@
 
 
 
-
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
@@ -22,7 +21,7 @@
 
 <p align="left">
 <a href="https://github.com/LockDTB">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LockDTB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LockDTB&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
 </a>
 </p>
 
