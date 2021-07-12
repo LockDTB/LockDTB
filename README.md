@@ -22,8 +22,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
-### ⚙️ &nbsp;GitHub Stats
-
+<!-- START NEW SECTION -->
   <details>
 <summary>:zap: Github Stats</summary>
 
