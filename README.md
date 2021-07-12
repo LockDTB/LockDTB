@@ -38,6 +38,12 @@
 - Browser: Brave Browser
 - Code Editor: VSCode
 
+## Spotify Playing 🎧
+
+[![Spotify](https://novatorem-two-dun.vercel.app/)](https://open.spotify.com/user/21zaodvhoz7ke2nocopw4ghna)
+
+##
+
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
