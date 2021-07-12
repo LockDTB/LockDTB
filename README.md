@@ -6,6 +6,8 @@
 <h3 align="center">< <img src="./hi.gif" width="20"> Hello there />, I'm Lock</h3>
 </div>
 
+##
+
 ### Connect with me:
 
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
@@ -23,6 +25,7 @@
 
 <img align="right" height="250" width="360" alt="" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
+##
 
 ### Languages and Tools:
 
