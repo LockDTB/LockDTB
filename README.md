@@ -1,38 +1,43 @@
-### Hey 👋, I'm Lock!
+## Hey 👋, I'm [Lock!](https://github.com/LockDTB)
 
-###
-[![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://www.twitch.tv/LockDTB)
-###
-[![Youtube](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/youtube/channel/subscribers/UC1ce0f6-IxvaiwwsmaBE0Bw?style=social)
-###
-[![Twitter Follow](https://img.shields.io/twitter/follow/lockDTB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lockDTB)
-###
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/GPfCw4T8Z7)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
 
-### Connect with me:
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=LockDTB&label=Views&color=blue&style=plastic)
 
-[<img align="left" alt="lockDTB | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="lockDTB | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="lockDTB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lockDTB | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I'm a School Dropout What else do you want to know?
+I'm a passionate learner who's always willing to learn, I've been Developing in Lua mainly for FiveM Servers for under 1 Month and still learning. 🤓
 
-<br />
+
+<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
+
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][github]
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br />
-<br />
+### ⚙️ &nbsp;GitHub Stats
 
+<p align="left">
+<a href="https://github.com/LockDTB">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LockDTB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AxelTronix&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
 
-</details>
+---
 
-[website]: https://lockDTB.com
-[twitter]: https://twitter.com/LockDTB
-[youtube]: https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw
-[instagram]: https://www.instagram.com/lockdtb/
-[twitch]: https://www.twitch.tv/LockDTB
-[github]: https://github.com/LockDTB
+### ⚙️ My Resources & Tools:
+
+- OS: Windows 10
+- Browser: Brave Browser
+- Code Editor: VSCode
+
+---
+
+<h3 align=center>Show some ❤️ </h3>
+
+---
