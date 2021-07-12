@@ -2,8 +2,10 @@
 
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
 
-[![Discord](https://img.shields.io/discord/729297852852862977?logo=discord)](https://img.shields.io/discord/729297852852862977?logo=discord)
+[![Discord](https://img.shields.io/discord/729297852852862977?logo=discord)](https://discord.gg/GPfCw4T8Z7)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/GPfCw4T8Z7)
+
+[![Twitter](https://img.shields.io/twitter/follow/LockDTB?style=social&logo=twitter)](https://img.shields.io/twitter/follow/LockDTB?style=social&logo=twitter)
 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
