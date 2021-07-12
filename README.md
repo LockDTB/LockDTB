@@ -1,7 +1,6 @@
 ## Hey 👋, I'm [Lock!](https://github.com/LockDTB) <img align="right" height="70" width="70" alt="" src="https://cdn.discordapp.com/attachments/819865029670862860/864051629510492160/Tyler_emoji.png" />
 
 [![Twitch](https://img.shields.io/twitch/status/LockDTB?style=social)](https://img.shields.io/twitch/status/LockDTB?style=social)
-
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/GPfCw4T8Z7)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/LockDTB)
