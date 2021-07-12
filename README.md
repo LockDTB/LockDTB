@@ -30,7 +30,7 @@
 [youtube]: https://www.youtube.com/channel/UC1ce0f6-IxvaiwwsmaBE0Bw
 [instagram]: https://www.instagram.com/lockdtb/
 [twitch]: https://www.twitch.tv/LockDTB
-[webdevplaylist]: https://www.twitch.tv/LockDTB
+[webdevplaylist]: https://github.com/LockDTB
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
