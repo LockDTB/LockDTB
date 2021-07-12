@@ -20,7 +20,6 @@
 ### ⚙️ &nbsp;GitHub Stats
 
   <details>
-<summary>:zap: Github Stats</summary>
 
   <img align="left" alt="LockDTB's Github Stats" src="https://lock-dtb-q1zhqqxn4-lockdtb.vercel.app/api?username=lockdtb&show_icons=true&hide_border=true" />
 
