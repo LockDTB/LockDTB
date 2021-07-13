@@ -57,7 +57,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-&nbsp; <br> [![Spotify](https://novatorem-two-dun.vercel.app/api/spotify)](https://open.spotify.com/user/21zaodvhoz7ke2nocopw4ghna)
+&nbsp; <br> [![Spotify](https://novatorem-two-dun.vercel.app/api/spotify)](https://github.com/LockDTB)
 
 ##
 
